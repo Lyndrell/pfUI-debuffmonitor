@@ -80,15 +80,15 @@ pfUI:RegisterModule("debuffmonitor", function ()
 	["Judgement of Wisdom"] = {
       ["name"] = "Judgement of Wisdom",
       ["short"] = "jw",
-      ["texture"] = "Interface\\Icons\\ability_paladin_judgementblue"},
+      ["texture"] = "Interface\\Icons\\Spell_Holy_RighteousnessAura"},
 	["Judgement of Light"] = {
       ["name"] = "Judgement of Light",
       ["short"] = "jl",
-      ["texture"] = "Interface\\Icons\\spell_holy_healingaura"},
+      ["texture"] = "Interface\\Icons\\Spell_Holy_RighteousFury"},
 	["Judgement of the Crusader"] = {
       ["name"] = "Judgement of the Crusader",
       ["short"] = "jc",
-      ["texture"] = "Interface\\Icons\\spell_holy_holysmite"},
+      ["texture"] = "Interface\\Icons\\Spell_Holy_HolySmite"},
   }
 
   pfUI.debuffmonitor = CreateFrame("Frame", "pfDebuffMonitor", UIParent)
