@@ -84,7 +84,7 @@ pfUI:RegisterModule("debuffmonitor", function ()
 	["Judgement of Light"] = {
       ["name"] = "Judgement of Light",
       ["short"] = "jl",
-      ["texture"] = "Interface\\Icons\\Spell_Holy_RighteousFury"},
+      ["texture"] = "Interface\\Icons\\Spell_Holy_HealingAura"},
 	["Judgement of the Crusader"] = {
       ["name"] = "Judgement of the Crusader",
       ["short"] = "jc",
