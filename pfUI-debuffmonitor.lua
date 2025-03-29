@@ -89,6 +89,10 @@ pfUI:RegisterModule("debuffmonitor", function ()
       ["name"] = "Judgement of the Crusader",
       ["short"] = "jc",
       ["texture"] = "Interface\\Icons\\Spell_Holy_HolySmite"},
+	["Demoralizing Shout"] = {
+      ["name"] = "Demoralizing Shout",
+      ["short"] = "ds",
+      ["texture"] = "Interface\\Icons\\Ability_Warrior_Warcry"},
   }
 
   pfUI.debuffmonitor = CreateFrame("Frame", "pfDebuffMonitor", UIParent)
