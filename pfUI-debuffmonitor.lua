@@ -92,7 +92,7 @@ pfUI:RegisterModule("debuffmonitor", function ()
 	["Demoralizing Shout"] = {
       ["name"] = "Demoralizing Shout",
       ["short"] = "ds",
-      ["texture"] = "Interface\\Icons\\Ability_Warrior_Warcry"},
+      ["texture"] = "Interface\\Icons\\Ability_Warrior_WarCry"},
   }
 
   pfUI.debuffmonitor = CreateFrame("Frame", "pfDebuffMonitor", UIParent)
